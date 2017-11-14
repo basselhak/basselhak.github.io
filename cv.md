@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-You can download a complete version of my CV [here](https://github.com/basselhak/basselhak.github.io/blob/master/_data/JAH_CV_nov_2017.pdf).
+You can download a complete version of my CV [here](https://github.com/basselhak/basselhak.github.io/raw/master/_data/JAH_CV_nov_2017.pdf).
 
 # Education
 
