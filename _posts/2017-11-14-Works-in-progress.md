@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Works-in-progress
+tags: WIP
 ---
 
 Here's a list of things I'm currently working on:
