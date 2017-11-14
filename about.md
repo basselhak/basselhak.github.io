@@ -12,4 +12,6 @@ I hold a PhD in political and social science from an Erasmus Mundus dual-degree 
 
 ### Contact me
 
-[Send me an email](mailto:jaha.dbp@cbs.dk)
+[Send me an email](mailto:jaha.dbp@cbs.dk) or connect through one of the icons in the page footer. 
+
+You can also find me on [Academia.edu](https://cbs.academia.edu/JacobHasselbalch) or [Researchgate.net](https://www.researchgate.net/profile/Jacob_Hasselbalch).
