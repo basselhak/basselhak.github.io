@@ -19,4 +19,4 @@ You can also find me on:
 - [Google Scholar](https://scholar.google.dk/citations?user=mVYggZMAAAAJ&hl=en)
 - [Academia.edu](https://cbs.academia.edu/JacobHasselbalch)
 - [Researchgate.net](https://www.researchgate.net/profile/Jacob_Hasselbalch)
-- [CBS website](https://www.cbs.dk/en/research/departments-and-centres/department-of-business-and-politics/staff/jahadbp).
+- [CBS website](https://www.cbs.dk/en/research/departments-and-centres/department-of-business-and-politics/staff/jahadbp)
