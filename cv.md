@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+permalink: /cv/
 ---
 
 You can download a complete version of my CV [here](https://basselhak.github.io/_data/JAH_CV_nov_2017.pdf).
