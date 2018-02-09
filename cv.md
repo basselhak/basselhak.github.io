@@ -4,15 +4,13 @@ title: CV
 permalink: /cv/
 ---
 
-You can download a complete version of my CV [here](https://github.com/basselhak/basselhak.github.io/raw/master/_data/JAH_CV_nov_2017.pdf).
-
 # Education
 
 - PhD in Politics and International Studies, University of Warwick, 2013-2017
 - PhD in Political and Social Sciences, L'Université libre de Bruxelles, 2013-2017
 - MSc and BSc in International Business and Politics, Copenhagen Business School, 2006-2012
 
-Doctoral thesis (passed with no corrections): [*"The Contentious Politics of Disruptive Innovation: Vaping and Fracking in the European Union"*](http://wrap.warwick.ac.uk/93146/)
+Doctoral thesis: [*"The Contentious Politics of Disruptive Innovation: Vaping and Fracking in the European Union"*](http://wrap.warwick.ac.uk/93146/)
 
 # Academic positions held
 
