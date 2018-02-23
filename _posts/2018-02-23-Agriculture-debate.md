@@ -1,0 +1,15 @@
+---
+layout: post
+title: Debating agricultural transitions
+tags: agriculture, transitions
+---
+
+The online Danish newspaper Altinget.dk has been running [a debate series on vegetarianism](https://www.altinget.dk/foedevarer/artikel/ny-debat-skal-vi-alle-vaere-vegetarer) featuring a panel of politicians, industry actors, and NGOs. The debate, in Danish, has been heating up quickly, particularly in the wake of [an opinion piece](https://www.altinget.dk/foedevarer/artikel/lf-vegetardebatten-er-domineret-af-foelelser) by Karen Hækkerup, the CEO of the Danish Agriculture & Food Council, which is the premier representative of Denmark's farming and food industries.
+
+In the piece, Hækkerup declares the current public debate on vegetarianism emotionally charged and devoid of scientific facts. She accuses proponents of plant-based diets of cherry-picking studies that support their views and decries the declining public trust in authorities and experts. Similarly, in [another piece](https://www.altinget.dk/foedevarer/artikel/di-alternative-kostraad-er-ikke-en-oekologisk-boenne-vaerd) by Leif Nielsen, CEO of the Danish Food and Drink Federation, vegetarianism and veganism is compared to a fashion trend, an extreme sport, and an attempt to confuse and mislead consumers.
+
+The industry is clearly reacting to a perceived threat to their profitability, and it's unsurprising that their immediate reaction is to claim the scientific high ground. Of course, their opponents aren't letting them have it that easily. Søren Egge Rasmussen from the left-wing political party Enhedslisten [responded](https://www.altinget.dk/foedevarer/artikel/el-falaflen-og-forbrugerne-udfordrer-frikadellen) that regardless of whether we take our point of departure in ethics, the environment, the climate, or public health, the current agricultural regime of intensive, meat-heavy agriculture will have a hard time defending itself. The Chairman of the Danish Vegetarian Association, Rune-Christoffer Dragsdahl, [pulls no punches](https://www.altinget.dk/foedevarer/artikel/vegetarforening-til-lf-og-di-i-kan-ikke-se-planterne-for-bare-grise-og-koeer) when saying that the industry 'cannot see the vegetables for all the cows and pigs blocking their view'.
+
+The problem for the industry seems to be a lack of proven alternatives to the current regime that perform better on economic metrics. Especially now that [China has approved imports](https://www.reuters.com/article/china-pork-denmark/china-approves-imports-of-danish-crown-processed-pork-idUSL4N1PW40Q) of processed pork from Danish Crown, the industry views the business case for factory-farmed pigs as clearer than ever. Transitions imply uncertainty, and it's not clear who the industrial winners and losers will be under a more plant-based regime.
+
+Regardless, alternative visions of Danish agricultural futures abound. As one example, consider [this start-up](http://www.helsetek.dk/) currently producing quinoa on Lolland Falster and turning it into a nutritious fermented drink. It's high time the lobbyists started listening to their smaller members and exploring alternative agricultural pathways.
