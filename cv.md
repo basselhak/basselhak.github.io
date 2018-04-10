@@ -14,7 +14,8 @@ Doctoral thesis: [*"The Contentious Politics of Disruptive Innovation: Vaping an
 
 ### Academic positions held
 
-- Postdoctoral Researcher on the Horizon 2020 ENLIGHTEN Project ('European Legitimacy in Governing through Hard Times: The Role of European Networks', Project Grant No. 649456), Department of Business and Politics, Copenhagen Business School, 2017-present
+- Postdoctoral Researcher on the projects [STEPS](http://sustainable-steps.se/) ('Sustainable Plastics and Transition Pathways') and [REINVENT](https://www.reinvent-project.eu/) ('Realising Innovation in Transitions to Decarbonisation', Horizon 2020 Project Grant No. 730053), Department of Political Science, Lund University, 2018-present.
+- Postdoctoral Researcher on the ENLIGHTEN Project ('European Legitimacy in Governing through Hard Times: The Role of European Networks', Horizon 2020 Project Grant No. 649456), Department of Business and Politics, Copenhagen Business School, 2017-2018.
 
 ### Teaching
 
