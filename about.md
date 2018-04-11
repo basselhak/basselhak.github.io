@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am currently working as a postdoc at Lund University's [Department of Political Science](https://www.svet.lu.se/) on two research projects investigating the politics and governance of plastics, in particular on questions of decarbonisation and sustainability.
+I am currently working as a postdoc at Lund University's [Department of Political Science](https://www.svet.lu.se/), contributing to three research projects investigating the politics and governance of plastics, in particular on questions of decarbonisation and sustainability.
 
 - [STEPS](http://sustainable-steps.se/) - Sustainable Plastics and Transition Pathways
 - [REINVENT](https://www.reinvent-project.eu/) - Realising Innovation in Transitions to Decarbonisation
+- [SUSPLAST](http://portal.research.lu.se/portal/sv/projects/sustainable-product-chains-for-plastics(64bfe1c2-da09-492f-aba7-c4e4ffd6973d).html) - Sustainable Product Chains for Plastics
 
 ### Bio
 

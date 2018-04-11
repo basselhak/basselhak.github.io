@@ -14,7 +14,7 @@ Doctoral thesis: [*"The Contentious Politics of Disruptive Innovation: Vaping an
 
 ### Academic positions held
 
-- Postdoctoral Researcher on the projects [STEPS](http://sustainable-steps.se/) ('Sustainable Plastics and Transition Pathways') and [REINVENT](https://www.reinvent-project.eu/) ('Realising Innovation in Transitions to Decarbonisation', Horizon 2020 Project Grant No. 730053), Department of Political Science, Lund University, 2018-present.
+- Postdoctoral Researcher on the projects [STEPS](http://sustainable-steps.se/) ('Sustainable Plastics and Transition Pathways'), [REINVENT](https://www.reinvent-project.eu/) ('Realising Innovation in Transitions to Decarbonisation', Horizon 2020 Project Grant No. 730053), and [SUSPLAST](http://portal.research.lu.se/portal/sv/projects/sustainable-product-chains-for-plastics(64bfe1c2-da09-492f-aba7-c4e4ffd6973d).html) ('Sustainable Product Chains for Plastics'), Department of Political Science, Lund University, 2018-present.
 - Postdoctoral Researcher on the [ENLIGHTEN](http://enlightenproject.eu/) Project ('European Legitimacy in Governing through Hard Times: The Role of European Networks', Horizon 2020 Project Grant No. 649456), Department of Business and Politics, Copenhagen Business School, 2017-2018.
 
 ### Teaching
